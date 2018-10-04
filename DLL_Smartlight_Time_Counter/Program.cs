@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using IOLUDPIF20_DOTNET;
 
 namespace DLL_Smartlight_Time_Counter
 {
